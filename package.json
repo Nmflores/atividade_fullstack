@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "Atividade da aula de programação full stack",
   "main": "servidor.js",
-  
   "scripts": {
-    "start":"node servidor.js",
+    "start": "node servidor.js",
     "test": "npm test"
   },
   "author": "Nicolas m Flores",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
   }
 }
